@@ -1,5 +1,7 @@
 class NumeroRomano
 
+# sesion 1
+
 	attr_reader :valor_romano
 
 	CADENA_UNIDAD 	= ["I","II","III","IV","V","VI","VII","VIII","IX"]
